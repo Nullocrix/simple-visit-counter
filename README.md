@@ -11,7 +11,7 @@
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username)
 ```
 **Custom Color**
-- Available colors [ red, green, blue ]
+- Available colors **red 🟥, green 🟩, blue 🟦.**
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="green")
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="red")
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="blue")
@@ -19,3 +19,4 @@
 ```Markdown
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="green")
 ```
+## Version V.1
