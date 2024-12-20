@@ -6,12 +6,12 @@
 # Usage
 
 **Default usage**
-- Default color is green
+- Default color is ```green```
 ```Markdown
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username)
 ```
 **Custom Color**
-- Available colors **red**, **green**, **blue**.
+- Available colors ```red```, ```green```, ```blue```.
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="green")
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="red")
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="blue")
@@ -22,4 +22,5 @@
 ## Version V.1
 
 **Next update V.2 ⚙️🔧**
-- Added features, **design selection** and **hex rgb colors**.
+- Added features, ```design selection``` and ```hex rgb colors```.
+- Bug fixes from ```/api/github/{query}```
