@@ -1,7 +1,7 @@
 # simple-visit-counter
 
 **Profile Visits**
-![Simple Visitor Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username)
+![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username)
 
 # Usage
 
