@@ -25,9 +25,6 @@
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="red")
 ![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="blue")
 
-```Markdown
-![Simple Visit Counter](https://nullocrix.pythonanywhere.com/api/github/Your-GitHub-Username&textcolor="green")
-```
 ## Version V.1
 
 **Next update V.2 ⚙️🔧**
